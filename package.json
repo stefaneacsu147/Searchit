@@ -1,0 +1,14 @@
+{
+  "name": "searchit",
+  "version": "1.0.0",
+  "description": "search app for reddit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Neacsu",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1"
+  }
+}
